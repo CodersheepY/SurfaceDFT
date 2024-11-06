@@ -65,7 +65,7 @@ After substituting the values, we obtain:
 
 ### 3. Analysis:
 
-The calculated adsorption energy \( E\_{\text{ads}}(O) = 1.216 \, \text{eV} \) is a positive value. Why is this the case? Was the calculation wrong? Or is there another physical meaning?
+The calculated adsorption energy $E\_{\text{ads}}(O) = 1.216 \, \text{eV}$ is a positive value. Why is this the case? Was the calculation wrong? Or is there another physical meaning?
 
 ---
 
