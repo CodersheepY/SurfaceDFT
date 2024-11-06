@@ -15,6 +15,10 @@ With these energies, we can calculate the adsorption energy of oxygen (O) on the
 
 Adsorption energy, as the term suggests, is the energy released when a molecule or atom is adsorbed onto a surface from the gas phase. When calculating the adsorption energy, there are two key points to keep in mind: the initial state and the final state.
 
+<p align="center">
+  <img width="347" alt="image" src="https://github.com/user-attachments/assets/b5afa0aa-73e9-44c2-a42c-b70f6decaa5b">
+</p>
+
 1. **Final State**: The final state refers to the optimized configuration of the O atom adsorbed on the surface. We denote this as `slab+O`, and its energy is labeled as **E(slab+O)**.
 
 2. **Initial State**: For calculating the adsorption energy of oxygen, the initial state includes both an oxygen molecule (O₂) in the gas phase and the clean slab surface. Since the possibility of O₂ dissociating into two O atoms and then adsorbing onto the surface in an actual reaction is extremely low, we will use the energy of the O₂ molecule from previous optimization calculations. The energies of the initial structures are denoted as **E(O₂)** and **E(slab)**.
